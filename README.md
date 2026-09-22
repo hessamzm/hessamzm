@@ -1,16 +1,178 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**hessamzm/hessamzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Hessam Zare Mahmoodi
 
-Here are some ideas to get you started:
+### Full-Stack Developer • Go • PHP • WordPress • WooCommerce
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build practical software, web applications, APIs, and custom WordPress/WooCommerce solutions.
+
+<p>
+  <a href="https://github.com/hessamzm">
+    <img src="https://img.shields.io/github/followers/hessamzm?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers">
+  </a>
+  <a href="https://github.com/hessamzm?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github" alt="Repositories">
+  </a>
+</p>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm a developer focused on building **real-world, maintainable software** rather than just writing code.
+
+- 🚀 Backend development with **Go & PHP**
+- 🌐 WordPress & **WooCommerce** development
+- 🔌 REST APIs and web applications
+- 🗄️ Database-driven applications
+- 🐳 Docker, Linux & server-side infrastructure
+- ⚡ Performance, automation and custom integrations
+- 🧩 Building reusable plugins, tools and business applications
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go,php,js,html,css,bash" alt="Languages">
+</p>
+
+### Frameworks & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress,tailwind,nodejs,docker,nginx" alt="Frameworks and platforms">
+</p>
+
+### Databases & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,linux" alt="Databases and tools">
+</p>
+
+**Also working with:** Goravel, Gin, ClickHouse, WooCommerce, ACF, REST APIs, AWS S3 and Fyne.
+
+---
+
+## 🚀 Featured Projects
+
+### ☕ Cafe Manager
+
+A desktop cafe management and accounting application built with **Go, Fyne and SQLite**.
+
+**Focus:** products, categories, tables, orders, reports and accounting.
+
+---
+
+### 🛒 WooCommerce Development
+
+A collection of custom WordPress and WooCommerce solutions focused on improving store functionality, product management and customer experience.
+
+**Focus:** plugins, AJAX interfaces, product attributes, pricing and automation.
+
+---
+
+### 📰 RSS & News Systems
+
+Backend services for collecting, processing and storing news from multiple sources.
+
+**Stack:** Go, RSS, HTML parsing, Gin and ClickHouse.
+
+---
+
+### 🔌 WordPress Plugins
+
+Custom WordPress plugins for automation, media processing, product management and dynamic content.
+
+**Stack:** PHP, WordPress APIs, WooCommerce, JavaScript and AWS S3.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/hessamzm">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hessamzm&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Hessam's GitHub stats">
+</a>
+
+<a href="https://github.com/hessamzm">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hessamzm&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+</a>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=hessamzm&theme=tokyonight&hide_border=true" alt="GitHub streak">
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hessamzm&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph">
+
+</div>
+
+---
+
+## 🧰 What I Like Building
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  ⚙️ Backend APIs             → Go / PHP / REST         │
+│  🌐 Web Applications         → WordPress / JS          │
+│  🛒 E-commerce               → WooCommerce             │
+│  🗄️ Data Systems             → MySQL / SQLite          │
+│  📊 High-volume Data         → ClickHouse              │
+│  🐳 Infrastructure           → Docker / Linux          │
+│  🔌 Developer Tools          → Plugins / Automation    │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced Go backend architecture
+- Scalable REST APIs
+- Modern WordPress architecture
+- WooCommerce customization
+- Containerized deployments
+- Data processing with ClickHouse
+- PWA and modern web application architectures
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/hessamzm">
+  <img src="https://img.shields.io/badge/GitHub-hessamzm-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Build something useful. Keep it simple. Ship it.
+
+<img src="https://komarev.com/ghpvc/?username=hessamzm&style=flat-square&color=blue" alt="Profile views">
+
+</div>
